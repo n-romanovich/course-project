@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Systemnic/Systemnic.vcxproj" Id="dbca4e19-fd60-4f1e-88c5-1a9f7338e50b" />
+</Solution>

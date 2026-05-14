@@ -1,0 +1,13 @@
+﻿  imgui-SFML.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Systemnic.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 3233 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Systemnic.vcxproj -> C:\Users\Администратор\Desktop\CP\Systemnic\x64\Release\Systemnic.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

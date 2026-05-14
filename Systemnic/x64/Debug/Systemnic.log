@@ -1,0 +1,107 @@
+﻿  Systemnic.cpp
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(566,21): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(566,30):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(566,21):
+      при попытке сопоставить список аргументов "(const char *, char [80])"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(639,17): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(639,26):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(639,17):
+      при попытке сопоставить список аргументов "(const char *, char [60])"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(722,17): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(722,26):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(722,17):
+      при попытке сопоставить список аргументов "(const char *, char [60])"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(800,21): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(800,30):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(800,21):
+      при попытке сопоставить список аргументов "(const char *, char [60])"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(842,17): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(842,26):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(842,17):
+      при попытке сопоставить список аргументов "(const char *, char [60])"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(885,17): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(885,26):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(885,17):
+      при попытке сопоставить список аргументов "(const char *, char [60])"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(965,17): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(965,26):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(965,17):
+      при попытке сопоставить список аргументов "(const char *, char [60])"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1016,17): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1016,26):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1016,17):
+      при попытке сопоставить список аргументов "(const char *, const char *)"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1019,17): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1019,26):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1019,17):
+      при попытке сопоставить список аргументов "(const char *, const char *)"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1028,17): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1028,26):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1028,17):
+      при попытке сопоставить список аргументов "(const char *, const char *)"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1042,13): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1042,22):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1042,13):
+      при попытке сопоставить список аргументов "(const char *, const char *)"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1195,5): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1195,14):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1195,5):
+      при попытке сопоставить список аргументов "(const char *, const char *)"
+  
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1200,22): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1213,39): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1225,22): error C2664: "void writeLog(char *,char *)": невозможно преобразовать аргумент 1 из "const char *" в "char *"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1225,31):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(134,6):
+       см. объявление "writeLog"
+      C:\Users\Администратор\Desktop\CP\Systemnic\Systemnic\Systemnic.cpp(1225,22):
+      при попытке сопоставить список аргументов "(const char *, const char *)"
+  
